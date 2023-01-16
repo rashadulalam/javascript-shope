@@ -1,0 +1,38 @@
+/* navbar design */
+.header-area {
+    background-color: #DAA98B;
+}
+
+.header-area .nav-link {
+    color: #753b17;
+}
+
+#add-product input, 
+#add-product textarea {
+    outline: none !important;
+    box-shadow: none;
+    border: 1px solid #DAA98B;
+    color: #753b17;
+}
+
+#add-product button {
+    color: #753b17 !important;
+}
+#add-product button:hover {
+    color: #fff !important;
+}
+
+.main-area h1,
+.main-area h2 {
+    color: #753b17;
+    margin-bottom: 10px;
+}
+
+.footer-area {
+    background-color: #F0E0D3;
+    padding: 10px 0;
+}
+.footer-area p {
+    margin-bottom: 0;
+    color: #753b17;
+}
